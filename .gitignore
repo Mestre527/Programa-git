@@ -1,0 +1,25 @@
+*.class
+target/
+../.android/
+../.bash_history
+../.config/
+../.emulator_console_auth_token
+../.gitconfig
+../.gradle/
+../.lesshst
+../.m2/
+../.nbi/
+../.vscode/
+../3D Objects/
+../AndroidStudioProjects/
+../AppData/
+../Contacts/
+../Documents/
+../Downloads/
+../Favorites/
+../Music/
+../Pictures/
+../Videos/
+../OneDrive/
+../Saved Games/
+../Searches/
